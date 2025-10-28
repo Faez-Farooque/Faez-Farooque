@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi...👋 I'm Faez Bin Farooque
 
 <!--
-**Faez-Farooque/Faez-Farooque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enthusiastic Software Quality Assurance (SQA) professional with a strong focus on delivering reliable, high-quality software solutions. With a strong foundation in testing principles and methodologies and identifying issues early and delivering reliable software solutions.
 
 Here are some ideas to get you started:
 
