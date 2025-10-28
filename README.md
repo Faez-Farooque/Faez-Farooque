@@ -1,6 +1,6 @@
 ## Hi...👋 I'm Faez Bin Farooque
 
-Enthusiastic Software QA professional with a strong focus on delivering reliable, high-quality software solutions. With a strong foundation in testing principles and methodologies and identifying issues early and delivering reliable software solutions. Skilled in manual testing of cloud-based web and mobile applications.
+Software QA enthusiast focused on ensuring reliability and quality in modern software products. Skilled in manual testing for cloud-based web and mobile applications, with practical knowledge of testing methodologies, defect analysis, and end-to-end validation. Passionate about learning, continuous improvement, and contributing to high-performing engineering teams.
 
 📫 Reach me: faezbinfarooque@gmail.com
 
