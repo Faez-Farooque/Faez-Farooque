@@ -1,5 +1,9 @@
 ## Hi...👋 I'm Faez Bin Farooque
-Enthusiastic Software QA professional with a strong focus on delivering reliable, high-quality software solutions. With a strong foundation in testing principles and methodologies and identifying issues early and delivering reliable software solutions.
+................................................................
+Enthusiastic Software QA professional with a strong focus on delivering reliable, high-quality software solutions. With a strong foundation in testing principles and methodologies and identifying issues early and delivering reliable software solutions. 
+
+📫 How to reach me: faezbinfarooque@gmail.com
+
 <!--
 
 
